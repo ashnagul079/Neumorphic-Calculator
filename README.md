@@ -14,6 +14,12 @@ A premium, modern, and highly responsive web-based Calculator designed with a cl
 
 ---
 
+## 📸 Preview
+
+🎥 [Watch Demo Video](Calculator_video%20(1).mp4)
+
+---
+
 ## 🛠️ Tech Stack Used
 
 *   **HTML:** Structured semantic layout.
