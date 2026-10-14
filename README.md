@@ -1,4 +1,4 @@
-# CodeAlpha_Calculator
+Calculator
 
 A premium, modern, and highly responsive web-based Calculator designed with a clean **Neumorphic (Soft UI)** aesthetic. This project was developed as part of my Front-End Development Internship at **CodeAlpha**.
 
